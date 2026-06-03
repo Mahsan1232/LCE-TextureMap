@@ -1,0 +1,1907 @@
+1>------ Rebuild All started: Project: Minecraft.World, Configuration: Debug PS3 ------
+1>  stdafx.cpp
+1>  UIStructs.h
+1>  LevelGenerationOptions.h 
+1>  "C:\MinecraftLCE-7thGen\Minecraft.World\stdafx.cpp": creating precompiled header file "C:\MinecraftLCE-7thGen\Minecraft.World\bin\PS3\Debug\Minecraft.World.pch"
+1>  AABB.cpp
+1>  Abilities.cpp
+1>  Achievement.cpp
+1>  Achievements.cpp
+1>  AddEntityPacket.cpp
+1>  AbstractContainerMenu.cpp
+1>  AddExperienceOrbPacket.cpp
+1>  AddGlobalEntityPacket.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Achievements.cpp(13,25): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Achievements.cpp(14,25): warning 68: integer conversion resulted in a change of sign
+1>  
+1>  AddIslandLayer.cpp
+1>  AddMobPacket.cpp
+1>  AddMushroomIslandLayer.cpp
+1>  AddPaintingPacket.cpp
+1>  AddPlayerPacket.cpp
+1>  AddSnowLayer.cpp
+1>  AgableMob.cpp
+1>  AirTile.cpp
+1>  Animal.cpp
+1>  AnimatePacket.cpp
+1>  AnvilTile.cpp
+1>  AnvilTileItem.cpp
+1>  ArmorDyeRecipe.cpp
+1>  ArmorItem.cpp
+1>  ArmorRecipes.cpp
+1>  ArmorSlot.cpp
+1>  Arrow.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ArmorRecipes.cpp(88,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ArmorRecipes.cpp(96,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ArmorRecipes.cpp(104,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ArmorRecipes.cpp(112,2): warning 112: statement is unreachable
+1>  
+1>  ArrowAttackGoal.cpp
+1>  ArrowDamageEnchantment.cpp
+1>  ArrowFireEnchantment.cpp
+1>  ArrowInfiniteEnchantment.cpp
+1>  ArrowKnockbackEnchantment.cpp
+1>  AuxDataTileItem.cpp
+1>  AvoidPlayerGoal.cpp
+1>  AwardStatPacket.cpp
+1>  BasicTree.cpp
+1>  BasicTypeContainers.cpp
+1>  BeachBiome.cpp
+1>  BedItem.cpp
+1>  BedTile.cpp
+1>  BegGoal.cpp
+1>  BinaryHeap.cpp
+1>  Biome.cpp
+1>  BiomeCache.cpp
+1>  BiomeDecorator.cpp
+1>  BiomeInitLayer.cpp
+1>  BiomeOverrideLayer.cpp
+1>  BiomeSource.cpp
+1>  BirchFeature.cpp
+1>  Blaze.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\BiomeCache.cpp(103,16): warning 1773: implicitly converting a value of type "float" to an entity of type "__int64" in an assignment
+1>  
+1>  BlockDestructionProgress.cpp
+1>  BlockGenMethods.cpp
+1>  BlockRegionUpdatePacket.cpp
+1>  BlockReplacements.cpp
+1>  Boat.cpp
+1>  BoatItem.cpp
+1>  BodyControl.cpp
+1>  BonusChestFeature.cpp
+1>  BookItem.cpp
+1>  BookshelfTile.cpp
+1>  BossMob.cpp
+1>  BossMobPart.cpp
+1>  BottleItem.cpp
+1>  BoundingBox.cpp
+1>  BowItem.cpp
+1>  BowlFoodItem.cpp
+1>  BreakDoorGoal.cpp
+1>  BreedGoal.cpp
+1>  BrewingStandMenu.cpp
+1>  BrewingStandTile.cpp
+1>  BrewingStandTileEntity.cpp
+1>  BucketItem.cpp
+1>  Buffer.cpp
+1>  BufferedOutputStream.cpp
+1>  BufferedReader.cpp
+1>  Bush.cpp
+1>  ButtonTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\BrewingStandTileEntity.cpp(321,10): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\BrewingStandTileEntity.cpp(334,10): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\BrewingStandTileEntity.cpp(371,13): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  ByteArrayInputStream.cpp
+1>  ByteArrayOutputStream.cpp
+1>  ByteBuffer.cpp
+1>  CactusFeature.cpp
+1>  CactusTile.cpp
+1>  CakeTile.cpp
+1>  CanyonFeature.cpp
+1>  CarrotOnAStickItem.cpp
+1>  CarrotTile.cpp
+1>  CauldronTile.cpp
+1>  CaveFeature.cpp
+1>  CaveSpider.cpp
+1>  ChatPacket.cpp
+1>  ChestTile.cpp
+1>  ChestTileEntity.cpp
+1>  Chicken.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CaveFeature.cpp(41,54): warning 1772: argument of type "double" is implicitly converted to parameter (1 of _ZN22LevelGenerationOptions15checkIntersectsEiiiiii) of type "int"
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CaveFeature.cpp(41,68): warning 1772: argument of type "double" is implicitly converted to parameter (2 of _ZN22LevelGenerationOptions15checkIntersectsEiiiiii) of type "int"
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CaveFeature.cpp(41,83): warning 1772: argument of type "double" is implicitly converted to parameter (3 of _ZN22LevelGenerationOptions15checkIntersectsEiiiiii) of type "int"
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CaveFeature.cpp(41,97): warning 1772: argument of type "double" is implicitly converted to parameter (4 of _ZN22LevelGenerationOptions15checkIntersectsEiiiiii) of type "int"
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CaveFeature.cpp(41,111): warning 1772: argument of type "double" is implicitly converted to parameter (5 of _ZN22LevelGenerationOptions15checkIntersectsEiiiiii) of type "int"
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CaveFeature.cpp(41,126): warning 1772: argument of type "double" is implicitly converted to parameter (6 of _ZN22LevelGenerationOptions15checkIntersectsEiiiiii) of type "int"
+1>  
+1>  ChunkPos.cpp
+1>  ChunkStorageProfileDecorator.cpp
+1>  ChunkTilesUpdatePacket.cpp
+1>  ChunkVisibilityAreaPacket.cpp
+1>  ChunkVisibilityPacket.cpp
+1>  Class.cpp
+1>  ClayFeature.cpp
+1>  ClayTile.cpp
+1>  ClientCommandPacket.cpp
+1>  ClientSideMerchant.cpp
+1>  ClockItem.cpp
+1>  ClothDyeRecipes.cpp
+1>  ClothTile.cpp
+1>  ClothTileItem.cpp
+1>  CoalItem.cpp
+1>  CocoaTile.cpp
+1>  Color.cpp
+1>  ColoredTileItem.cpp
+1>  Command.cpp
+1>  CommandDispatcher.cpp
+1>  CommonStats.cpp
+1>  CompassItem.cpp
+1>  ComplexItem.cpp
+1>  ComplexItemDataPacket.cpp
+1>  CompoundContainer.cpp
+1>  compression.cpp
+1>  Connection.cpp
+1>  ConsoleSaveFileConverter.cpp
+1>  ConsoleSaveFileOriginal.cpp
+1>  Container.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\compression.cpp(355,5): warning 178: variable "Page" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileConverter.cpp(26,7): warning 178: variable "numberOfBytesWritten" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileConverter.cpp(27,7): warning 178: variable "numberOfBytesRead" was declared but never referenced
+1>  
+1>  ContainerAckPacket.cpp
+1>  ContainerButtonClickPacket.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(89,7): warning 178: variable "AllocData" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(332,23): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(363,22): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(400,22): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(473,7): warning 552: variable "numberOfBytesWritten" was set but never used
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(643,30): warning 178: variable "qwTime" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(643,38): warning 178: variable "qwNewTime" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(643,49): warning 178: variable "qwDeltaTime" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(644,7): warning 178: variable "fElapsedTime" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(646,7): warning 178: variable "fSecsPerTick" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(813,18): warning 178: variable "pClass" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(992,7): warning 178: variable "numberOfBytesWritten" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ConsoleSaveFileOriginal.cpp(993,7): warning 178: variable "numberOfBytesRead" was declared but never referenced
+1>  
+1>  ContainerClickPacket.cpp
+1>  ContainerClosePacket.cpp
+1>  ContainerOpenPacket.cpp
+1>  ContainerSetContentPacket.cpp
+1>  ContainerSetDataPacket.cpp
+1>  ContainerSetSlotPacket.cpp
+1>  ControlledByPlayerGoal.cpp
+1>  CoralTile.cpp
+1>  Cow.cpp
+1>  CraftingContainer.cpp
+1>  CraftingMenu.cpp
+1>  DefaultGameModeCommand.cpp
+1>  UIStructs.h
+1>  EnchantItemCommand.cpp
+1>  ExperienceCommand.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CraftingContainer.cpp(36,7): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  GameCommandPacket.cpp
+1>  GameModeCommand.cpp
+1>  GenericStats.cpp
+1>  GiveItemCommand.cpp
+1>  LevelGenerationOptions.h 
+1>  KillCommand.cpp
+1>  PerformanceTimer.cpp
+1>  TimeCommand.cpp
+1>  ToggleDownfallCommand.cpp
+1>  UIStructs.h
+1>  TradeItemPacket.cpp
+1>  CraftItemPacket.cpp
+1>  Creature.cpp
+1>  Creeper.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ChestTileEntity.cpp(109,11): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  CropTile.cpp
+1>  CustomLevelSource.cpp
+1>  CustomPayloadPacket.cpp
+1>  LevelGenerationOptions.h 
+1>  DamageEnchantment.cpp
+1>  DamageSource.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CustomLevelSource.cpp(191,13): warning 552: variable "comp" was set but never used
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CustomLevelSource.cpp(141,5): warning 178: variable "xSize" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CustomLevelSource.cpp(142,5): warning 178: variable "ySize" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CustomLevelSource.cpp(143,5): warning 178: variable "zSize" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CustomLevelSource.cpp(511,6): warning 552: variable "hasVillage" was set but never used
+1>  
+1>  DataInputStream.cpp
+1>  DataLayer.cpp
+1>  DataOutputStream.cpp
+1>  DeadBushFeature.cpp
+1>  DeadBushTile.cpp
+1>  DebugOptionsPacket.cpp
+1>  DefendVillageTargetGoal.cpp
+1>  DelayedRelease.cpp
+1>  DerivedLevelData.cpp
+1>  DesertBiome.cpp
+1>  DesertWellFeature.cpp
+1>  DetectorRailTile.cpp
+1>  DigDurabilityEnchantment.cpp
+1>  DiggerItem.cpp
+1>  DiggingEnchantment.cpp
+1>  Dimension.cpp
+1>  DiodeTile.cpp
+1>  Direction.cpp
+1>  DirectionalTile.cpp
+1>  DirectoryLevelStorage.cpp
+1>  DirectoryLevelStorageSource.cpp
+1>  DirtTile.cpp
+1>  DisconnectPacket.cpp
+1>  DispenserTile.cpp
+1>  DispenserTileEntity.cpp
+1>  DoorInfo.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DirectoryLevelStorage.cpp(772,6): warning 552: variable "changed" was set but never used
+1>  
+1>  DoorInteractGoal.cpp
+1>  DragonFireball.cpp
+1>  EatTileGoal.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(295,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(316,2): warning 112: statement is unreachable
+1>  
+1>  EggTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(337,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(377,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(398,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(418,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(444,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(458,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(501,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(536,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTile.cpp(569,2): warning 112: statement is unreachable
+1>  
+1>  EnchantedBookItem.cpp
+1>  Enchantment.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DragonFireball.cpp(52,41): warning 1772: argument of type "double" is implicitly converted to parameter (2 of _ZN3Mob4hurtEP12DamageSourcei) of type "int"
+1>  
+1>  EnchantmentCategory.cpp
+1>  EnchantmentContainer.cpp
+1>  EnchantmentHelper.cpp
+1>  EnchantmentInstance.cpp
+1>  EnchantmentMenu.cpp
+1>  EnchantmentTableEntity.cpp
+1>  EnchantmentTableTile.cpp
+1>  EnderChestTile.cpp
+1>  EnderChestTileEntity.cpp
+1>  EnderEyeItem.cpp
+1>  EnderpearlItem.cpp
+1>  EndPodiumFeature.cpp
+1>  ExperienceItem.cpp
+1>  ExtremeHillsBiome.cpp
+1>  Feature.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderEyeItem.cpp(210,74): warning 1772: argument of type "double" is implicitly converted to parameter (2 of signalTo) of type "int"
+1>  
+1>  EnderCrystal.cpp
+1>  EnderDragon.cpp
+1>  EyeOfEnderSignal.cpp
+1>  FireAspectEnchantment.cpp
+1>  FireChargeItem.cpp
+1>  FleeSunGoal.cpp
+1>  FlippedIcon.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderDragon.cpp(900,61): warning 1778: argument type is implicitly converted to parameter of type "int"
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderDragon.cpp(1553,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderDragon.cpp(1554,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderDragon.cpp(1559,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderDragon.cpp(1560,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderDragon.cpp(1566,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\EnderDragon.cpp(1567,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>  FloatGoal.cpp
+1>  FlowerPotTile.cpp
+1>  FollowOwnerGoal.cpp
+1>  FollowParentGoal.cpp
+1>  Goal.cpp
+1>  GoalSelector.cpp
+1>  GoldenAppleItem.cpp
+1>  Golem.cpp
+1>  GroundBushFeature.cpp
+1>  GrowMushroomIslandLayer.cpp
+1>  HalfSlabTile.cpp
+1>  HangingEntity.cpp
+1>  HangingEntityItem.cpp
+1>  HellFlatLevelSource.cpp
+1>  HurtByTargetGoal.cpp
+1>  IceBiome.cpp
+1>  InteractGoal.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\HellFlatLevelSource.cpp(11,10): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>  ItemFrame.cpp
+1>  JumpControl.cpp
+1>  JungleBiome.cpp
+1>  KickPlayerPacket.cpp
+1>  KnockbackEnchantment.cpp
+1>  LavaSlime.cpp
+1>  LeapAtTargetGoal.cpp
+1>  UIStructs.h
+1>  LevelSoundPacket.cpp
+1>  LookAtPlayerGoal.cpp
+1>  LookAtTradingPlayerGoal.cpp
+1>  LookControl.cpp
+1>  LootBonusEnchantment.cpp
+1>  MakeLoveGoal.cpp
+1>  MegaTreeFeature.cpp
+1>  MeleeAttackGoal.cpp
+1>  MerchantContainer.cpp
+1>  MerchantMenu.cpp
+1>  MerchantRecipe.cpp
+1>  MerchantRecipeList.cpp
+1>  LevelGenerationOptions.h 
+1>C:\MinecraftLCE-7thGen\Minecraft.World\MeleeAttackGoal.cpp(39,25): warning 416: delete of pointer to incomplete class
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\MeleeAttackGoal.cpp(49,8): warning 416: delete of pointer to incomplete class
+1>  
+1>  MerchantResultSlot.cpp
+1>  MilkBucketItem.cpp
+1>  MonsterPlacerItem.cpp
+1>  MoveControl.cpp
+1>  MoveIndoorsGoal.cpp
+1>  MoveThroughVillageGoal.cpp
+1>  MoveTowardsRestrictionGoal.cpp
+1>  MoveTowardsTargetGoal.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\DispenserTileEntity.cpp(163,11): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  MultiTextureTileItem.cpp
+1>  MushroomCow.cpp
+1>  MushroomIslandBiome.cpp
+1>  MycelTile.cpp
+1>  NearestAttackableTargetGoal.cpp
+1>  NetherBridgeFeature.cpp
+1>  NetherBridgePieces.cpp
+1>  NetherStalkTile.cpp
+1>  NonTameRandomTargetGoal.cpp
+1>  Npc.cpp
+1>  OcelotSitOnTileGoal.cpp
+1>  OfferFlowerGoal.cpp
+1>  OpenDoorGoal.cpp
+1>  OwnerHurtByTargetGoal.cpp
+1>  OwnerHurtTargetGoal.cpp
+1>  OxygenEnchantment.cpp
+1>  Ozelot.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(10,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(13,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(16,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(19,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  OzelotAttackGoal.cpp
+1>  PanicGoal.cpp
+1>  PathNavigation.cpp
+1>  PlayerAbilitiesPacket.cpp
+1>  PlayerEnderChestContainer.cpp
+1>  PlayGoal.cpp
+1>  PotatoTile.cpp
+1>  PotionBrewing.cpp
+1>  PotionItem.cpp
+1>  ProtectionEnchantment.cpp
+1>  QuartzBlockTile.cpp
+1>  RandomLookAroundGoal.cpp
+1>  RandomPos.cpp
+1>  RandomScatteredLargeFeature.cpp
+1>  RandomStrollGoal.cpp
+1>  Rarity.cpp
+1>  RedlightTile.cpp
+1>  RegionHillsLayer.cpp
+1>  RepairContainer.cpp
+1>  RepairMenu.cpp
+1>  RepairResultSlot.cpp
+1>  RestrictOpenDoorGoal.cpp
+1>  RestrictSunGoal.cpp
+1>  RotateHeadPacket.cpp
+1>  ScatteredFeaturePieces.cpp
+1>  SeedFoodItem.cpp
+1>  Sensing.cpp
+1>  SitGoal.cpp
+1>  SkullItem.cpp
+1>  SkullTile.cpp
+1>  SkullTileEntity.cpp
+1>  SparseDataStorage.cpp
+1>  SwampRiversLayer.cpp
+1>  SwellGoal.cpp
+1>  TakeFlowerGoal.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseDataStorage.cpp(71,33): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseDataStorage.cpp(91,39): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseDataStorage.cpp(387,35): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseDataStorage.cpp(433,33): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseDataStorage.cpp(484,35): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseDataStorage.cpp(513,31): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseDataStorage.cpp(607,30): warning 1067: conversion from integer to smaller pointer
+1>  
+1>  TamableAnimal.cpp
+1>  TargetGoal.cpp
+1>  TemptGoal.cpp
+1>  ThornsEnchantment.cpp
+1>  TileDestructionPacket.cpp
+1>  TileEventData.cpp
+1>  TradeWithPlayerGoal.cpp
+1>  TripWireSourceTile.cpp
+1>  TripWireTile.cpp
+1>  Village.cpp
+1>  VillagerGolem.cpp
+1>  Villages.cpp
+1>  VillageSiege.cpp
+1>  VinesFeature.cpp
+1>  WallTile.cpp
+1>  WeighedTreasure.cpp
+1>  WoodSlabTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\VillagerGolem.cpp(78,47): warning 1772: argument of type "float" is implicitly converted to parameter (4 of _ZN3Mob10restrictToEiiii) of type "int"
+1>  
+1>  C4JThread.cpp
+1>  WoodTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\WallTile.cpp(113,7): warning 552: variable "up" was set but never used
+1>  
+1>  WoolCarpetTile.cpp
+1>  XZPacket.cpp
+1>  ShoreLayer.cpp
+1>  SmoothStoneBrickTileItem.cpp
+1>  SparseLightStorage.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\C4JThread.cpp(202,22): warning 1067: conversion from integer to smaller pointer
+1>  
+1>  SpikeFeature.cpp
+1>  NetherSphere.cpp
+1>  SmallFireball.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseLightStorage.cpp(71,33): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseLightStorage.cpp(91,39): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseLightStorage.cpp(392,35): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseLightStorage.cpp(439,33): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseLightStorage.cpp(490,35): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseLightStorage.cpp(519,31): warning 1067: conversion from integer to smaller pointer
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SparseLightStorage.cpp(624,30): warning 1067: conversion from integer to smaller pointer
+1>  
+1>  SnowMan.cpp
+1>  StoneMonsterTileItem.cpp
+1>  TextureAndGeometryChangePacket.cpp
+1>  TextureAndGeometryPacket.cpp
+1>  TheEndBiome.cpp
+1>  TheEndBiomeDecorator.cpp
+1>  TheEndDimension.cpp
+1>  TheEndLevelRandomLevelSource.cpp
+1>  TheEndPortal.cpp
+1>  TheEndPortalFrameTile.cpp
+1>  TheEndPortalTileEntity.cpp
+1>  Throwable.cpp
+1>  ThrownEnderpearl.cpp
+1>  ThrownExpBottle.cpp
+1>  ThrownPotion.cpp
+1>  TileEntityDataPacket.cpp
+1>  UntouchingEnchantment.cpp
+1>  UpdateGameRuleProgressPacket.cpp
+1>  Distort.cpp
+1>  DoorItem.cpp
+1>  DoorTile.cpp
+1>  DownfallLayer.cpp
+1>  DownfallMixerLayer.cpp
+1>  DungeonFeature.cpp
+1>  DyePowderItem.cpp
+1>  EggItem.cpp
+1>  Emboss.cpp
+1>  EmptyLevelChunk.cpp
+1>  EnderMan.cpp
+1>  Enemy.cpp
+1>  Entity.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(10,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(13,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(16,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(19,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  EntityActionAtPositionPacket.cpp
+1>  EntityDamageSource.cpp
+1>  EntityEventPacket.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Entity.cpp(1940,15): warning 178: variable "uiIgnoreUserCustomSkinAnimSettingMask" was declared but never referenced
+1>  
+1>  EntityIO.cpp
+1>  EntityPos.cpp
+1>  EntityTile.cpp
+1>  ExperienceOrb.cpp
+1>  ExplodePacket.cpp
+1>  Explosion.cpp
+1>  Facing.cpp
+1>  FallingTile.cpp
+1>  FarmTile.cpp
+1>  FastNoise.cpp
+1>  FenceGateTile.cpp
+1>  FenceTile.cpp
+1>  File.cpp
+1>  FileHeader.cpp
+1>  FileInputStream.cpp
+1>  FileOutputStream.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\File.cpp(179,61): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\File.cpp(214,62): warning 68: integer conversion resulted in a change of sign
+1>  
+1>  Fireball.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\FileHeader.cpp(667,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\FileHeader.cpp(675,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\FileHeader.cpp(661,11): warning 178: variable "platEndian" was declared but never referenced
+1>  
+1>  FireTile.cpp
+1>  FishingHook.cpp
+1>  FishingRodItem.cpp
+1>  FixedBiomeSource.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(10,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(13,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(16,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(19,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  FlatLayer.cpp
+1>  FlatLevelSource.cpp
+1>  UIStructs.h
+1>  UIStructs.h
+1>  UIStructs.h
+1>  FlintAndSteelItem.cpp
+1>  FloatBuffer.cpp
+1>  FlowerFeature.cpp
+1>  FlyingMob.cpp
+1>  FoliageColor.cpp
+1>  FoodConstants.cpp
+1>  FoodData.cpp
+1>  LevelGenerationOptions.h 
+1>  LevelGenerationOptions.h 
+1>  LevelGenerationOptions.h 
+1>  FoodItem.cpp
+1>  FoodRecipies.cpp
+1>  ForestBiome.cpp
+1>  FurnaceMenu.cpp
+1>  FurnaceRecipes.cpp
+1>  FurnaceResultSlot.cpp
+1>  FurnaceTile.cpp
+1>  FurnaceTileEntity.cpp
+1>  FuzzyZoomLayer.cpp
+1>  GameEventPacket.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\FurnaceTileEntity.cpp(109,11): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  GeneralStat.cpp
+1>  GetInfoPacket.cpp
+1>  Ghast.cpp
+1>  Giant.cpp
+1>  GlassTile.cpp
+1>  GlobalEntity.cpp
+1>  GrassColor.cpp
+1>  GrassTile.cpp
+1>  GravelTile.cpp
+1>  HalfTransparentTile.cpp
+1>  Hasher.cpp
+1>  HatchetItem.cpp
+1>  HellBiome.cpp
+1>  HellDimension.cpp
+1>  HellFireFeature.cpp
+1>  HellPortalFeature.cpp
+1>  HellRandomLevelSource.cpp
+1>  HellSandTile.cpp
+1>  HellSpringFeature.cpp
+1>  HellStoneTile.cpp
+1>  HitResult.cpp
+1>  HoeItem.cpp
+1>  HouseFeature.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\HellRandomLevelSource.cpp(14,10): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+1>  
+1>  HugeMushroomFeature.cpp
+1>  HugeMushroomTile.cpp
+1>  I18n.cpp
+1>  IceTile.cpp
+1>  ImprovedNoise.cpp
+1>  ContainerMenu.cpp
+1>  IndirectEntityDamageSource.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\I18n.cpp(12,1): warning 1304: non-POD class type passed through ellipsis
+1>  
+1>  InputStream.cpp
+1>  InputStreamReader.cpp
+1>  InstantenousMobEffect.cpp
+1>  IntBuffer.cpp
+1>  IntCache.cpp
+1>  InteractPacket.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\InputStreamReader.cpp(43,12): warning 516: pointless comparison of unsigned integer with a negative constant
+1>  
+1>  Inventory.cpp
+1>  InventoryMenu.cpp
+1>  IslandLayer.cpp
+1>  Item.cpp
+1>  ItemEntity.cpp
+1>  ItemInstance.cpp
+1>  ItemStat.cpp
+1>  KeepAlivePacket.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Inventory.cpp(518,12): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Item.cpp(374,207): warning 68: integer conversion resulted in a change of sign
+1>  
+1>  LadderTile.cpp
+1>  LakeFeature.cpp
+1>  Language.cpp
+1>  LargeCaveFeature.cpp
+1>  LargeFeature.cpp
+1>  LargeHellCaveFeature.cpp
+1>  Layer.cpp
+1>  LeafTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Language.cpp(29,1): warning 1304: non-POD class type passed through ellipsis
+1>  
+1>  LeafTileItem.cpp
+1>  LevelConflictException.cpp
+1>  LevelData.cpp
+1>  Level.cpp
+1>  LevelChunk.cpp
+1>  LevelEventPacket.cpp
+1>  LevelSettings.cpp
+1>  LevelStorage.cpp
+1>  LevelStorageProfilerDecorator.cpp
+1>  LevelSummary.cpp
+1>  LevelType.cpp
+1>  LeverTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\LevelChunk.cpp(1691,8): warning 178: variable "xs" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\LevelChunk.cpp(1692,8): warning 178: variable "ys" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\LevelChunk.cpp(1693,8): warning 178: variable "zs" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Level.cpp(142,19): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Level.cpp(200,19): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Level.cpp(267,19): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Level.cpp(343,19): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Level.cpp(426,22): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Level.cpp(1161,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Level.cpp(4358,75): warning 1628: argument of type "__int64" is incompatible with parameter (1 of param_time) of type "int"
+1>  
+1>  LightGemFeature.cpp
+1>  LightGemTile.cpp
+1>  LightningBolt.cpp
+1>  LiquidTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\LeverTile.cpp(196,6): warning 178: variable "dir" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\LeverTile.cpp(205,6): warning 178: variable "dir" was declared but never referenced
+1>  
+1>  LiquidTileDynamic.cpp
+1>  LiquidTileStatic.cpp
+1>  LockedChestTile.cpp
+1>  LoginPacket.cpp
+1>  MapItem.cpp
+1>  MapItemSavedData.cpp
+1>  Material.cpp
+1>  MaterialColor.cpp
+1>  JavaMath.cpp
+1>  McRegionChunkStorage.cpp
+1>  McRegionLevelStorageSource.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\MapItemSavedData.cpp(180,11): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\MapItemSavedData.cpp(300,9): warning 178: variable "size" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\MapItemSavedData.cpp(331,9): warning 178: variable "size" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\MapItemSavedData.cpp(403,10): warning 178: variable "size" was declared but never referenced
+1>  
+1>  McRegionLevelStorage.cpp
+1>  MelonTile.cpp
+1>  MenuBackup.cpp
+1>  MetalTile.cpp
+1>  Minecart.cpp
+1>  MinecartItem.cpp
+1>  Minecraft.World.cpp
+1>  MineShaftFeature.cpp
+1>  MineShaftPieces.cpp
+1>  MineShaftStart.cpp
+1>  Mob.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Minecart.cpp(892,12): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  MobCategory.cpp
+1>  MobEffect.cpp
+1>  MobEffectInstance.cpp
+1>  MobSpawner.cpp
+1>  MobSpawnerTile.cpp
+1>  MobSpawnerTileEntity.cpp
+1>  MockedLevelStorage.cpp
+1>  Monster.cpp
+1>  MonsterRoomFeature.cpp
+1>  MoveEntityPacket.cpp
+1>  MoveEntityPacketSmall.cpp
+1>  MovePlayerPacket.cpp
+1>  Mth.cpp
+1>  Mushroom.cpp
+1>  MusicTile.cpp
+1>  MusicTileEntity.cpp
+1>  NbtIo.cpp
+1>  Node.cpp
+1>  NotGateTile.cpp
+1>  ObsidianTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\MusicTileEntity.cpp(30,10): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  OldChunkStorage.cpp
+1>  OreFeature.cpp
+1>  OreRecipies.cpp
+1>  OreTile.cpp
+1>  Packet.cpp
+1>  PacketListener.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\OldChunkStorage.cpp(66,9): warning 178: variable "xRadix36" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\OldChunkStorage.cpp(67,9): warning 178: variable "zRadix36" was declared but never referenced
+1>  
+1>  Painting.cpp
+1>  Path.cpp
+1>  PathFinder.cpp
+1>  PathfinderMob.cpp
+1>  PerlinNoise.cpp
+1>  PerlinSimplexNoise.cpp
+1>  PickaxeItem.cpp
+1>  Pig.cpp
+1>  PigZombie.cpp
+1>  PineFeature.cpp
+1>  PistonBaseTile.cpp
+1>  PistonExtensionTile.cpp
+1>  PistonMovingPiece.cpp
+1>  PistonPieceEntity.cpp
+1>  PistonTileItem.cpp
+1>  PlainsBiome.cpp
+1>  Player.cpp
+1>  PlayerActionPacket.cpp
+1>  PlayerCommandPacket.cpp
+1>  PlayerInfoPacket.cpp
+1>  PlayerInputPacket.cpp
+1>  PortalForcer.cpp
+1>  PortalTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Player.cpp(731,3): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Player.cpp(931,7): warning 178: variable "preYRot" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Player.cpp(931,23): warning 178: variable "preXRot" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Player.cpp(2155,8): warning 178: variable "dist" was declared but never referenced
+1>  
+1>  Pos.cpp
+1>  PreLoginPacket.cpp
+1>  PressurePlateTile.cpp
+1>  PrimedTnt.cpp
+1>  PumpkinFeature.cpp
+1>  PumpkinTile.cpp
+1>  RailTile.cpp
+1>  RainforestBiome.cpp
+1>  Random.cpp
+1>  RandomLevelSource.cpp
+1>  ReadOnlyChunkCache.cpp
+1>  Recipes.cpp
+1>  RecordingItem.cpp
+1>  RecordPlayerTile.cpp
+1>  RedStoneDustTile.cpp
+1>  RedStoneItem.cpp
+1>  RedStoneOreTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Recipes.cpp(50,5): warning 178: variable "iCount" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Recipes.cpp(940,5): warning 178: variable "p" was declared but never referenced
+1>  
+1>  ReedsFeature.cpp
+1>  ReedTile.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Recipes.cpp(1011): warning 1669: Potential uninitialized reference to "wchFrom" in function "addShapedRecipy"
+1>  Region.cpp
+1>  RegionFile.cpp
+1>  RegionFileCache.cpp
+1>  RemoveEntitiesPacket.cpp
+1>  RemoveMobEffectPacket.cpp
+1>  RespawnPacket.cpp
+1>  ResultContainer.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Region.cpp(205,3): warning 112: statement is unreachable
+1>  
+1>  ResultSlot.cpp
+1>  RiverInitLayer.cpp
+1>  RiverLayer.cpp
+1>  RiverMixerLayer.cpp
+1>  Rotate.cpp
+1>  SaddleItem.cpp
+1>  SandFeature.cpp
+1>  SandStoneTile.cpp
+1>  HeavyTile.cpp
+1>  Sapling.cpp
+1>  SaplingTileItem.cpp
+1>  SavedData.cpp
+1>  SavedDataStorage.cpp
+1>  Scale.cpp
+1>  SeedItem.cpp
+1>  ServerSettingsChangedPacket.cpp
+1>  SetCarriedItemPacket.cpp
+1>  SetCreativeModeSlotPacket.cpp
+1>  SetEntityDataPacket.cpp
+1>  SetEntityMotionPacket.cpp
+1>  SetEquippedItemPacket.cpp
+1>  SetExperiencePacket.cpp
+1>  SetHealthPacket.cpp
+1>  SetRidingPacket.cpp
+1>  SetSpawnPositionPacket.cpp
+1>  SetTimePacket.cpp
+1>  ShapedRecipy.cpp
+1>  ShapelessRecipy.cpp
+1>  SharedConstants.cpp
+1>  ShearsItem.cpp
+1>  Sheep.cpp
+1>  ShovelItem.cpp
+1>  SignItem.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ShapedRecipy.cpp(112,5): warning 178: variable "iCount" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ShapedRecipy.cpp(137,5): warning 178: variable "iCount" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\ShapelessRecipy.cpp(90,5): warning 178: variable "iCount" was declared but never referenced
+1>  
+1>  SignTile.cpp
+1>  SignTileEntity.cpp
+1>  SignUpdatePacket.cpp
+1>  Silverfish.cpp
+1>  SimpleContainer.cpp
+1>  SimplexNoise.cpp
+1>  Skeleton.cpp
+1>  Slime.cpp
+1>  Slot.cpp
+1>  SmoothFloat.cpp
+1>  SmoothLayer.cpp
+1>  SmoothStoneBrickTile.cpp
+1>  SmoothZoomLayer.cpp
+1>  Snowball.cpp
+1>  SnowballItem.cpp
+1>  SnowTile.cpp
+1>  Socket.cpp
+1>  Spider.cpp
+1>  Sponge.cpp
+1>  SpringFeature.cpp
+1>  SpringTile.cpp
+1>  SpruceFeature.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Sponge.cpp(6,10): warning 178: variable "RANGE" was declared but never referenced
+1>  
+1>  Squid.cpp
+1>  Stat.cpp
+1>  Stats.cpp
+1>  StairTile.cpp
+1>  StemTile.cpp
+1>  StoneMonsterTile.cpp
+1>  UIStructs.h
+1>  StoneSlabTile.cpp
+1>  StoneSlabTileItem.cpp
+1>  StoneTile.cpp
+1>  StringHelpers.cpp
+1>  StrongholdFeature.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\StoneSlabTile.cpp(35,2): warning 112: statement is unreachable
+1>  
+1>  StrongholdPieces.cpp
+1>  StructureFeature.cpp
+1>  LevelGenerationOptions.h 
+1>  StructurePiece.cpp
+1>  StructureRecipies.cpp
+1>  UIStructs.h
+1>  StructureStart.cpp
+1>  SwampBiome.cpp
+1>  SwampTreeFeature.cpp
+1>  SynchedEntityData.cpp
+1>  Synth.cpp
+1>  system.cpp
+1>  LevelGenerationOptions.h 
+1>C:\MinecraftLCE-7thGen\Minecraft.World\system.cpp(21,1): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\system.cpp(30,1): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\system.cpp(9,1): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  Tag.cpp
+1>  TaigaBiome.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\SynchedEntityData.cpp(363,3): warning 112: statement is unreachable
+1>  
+1>  TakeItemEntityPacket.cpp
+1>  TallGrass.cpp
+1>  TallGrassFeature.cpp
+1>  TeleportEntityPacket.cpp
+1>  TemperatureLayer.cpp
+1>  TemperatureMixerLayer.cpp
+1>  TextureChangePacket.cpp
+1>  TexturePacket.cpp
+1>  ThinFenceTile.cpp
+1>  ThreadName.cpp
+1>  ThrownEgg.cpp
+1>  TickNextTickData.cpp
+1>  Tile.cpp
+1>  TileEventPacket.cpp
+1>  UIStructs.h
+1>  TileItem.cpp
+1>  TileEntity.cpp
+1>  TilePlanterItem.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Tile.cpp(299,140): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Tile.cpp(302,138): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Tile.cpp(323,236): warning 68: integer conversion resulted in a change of sign
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Tile.cpp(361,266): warning 68: integer conversion resulted in a change of sign
+1>  
+1>  TilePos.cpp
+1>  TileUpdatePacket.cpp
+1>  TntTile.cpp
+1>  LevelGenerationOptions.h 
+1>  ToolRecipies.cpp
+1>  TopSnowTile.cpp
+1>  TorchTile.cpp
+1>  TransparentTile.cpp
+1>  TrapDoorTile.cpp
+1>  TrapMenu.cpp
+1>  TreeFeature.cpp
+1>  TreeTileItem.cpp
+1>  UpdateMobEffectPacket.cpp
+1>  UpdateProgressPacket.cpp
+1>  UseItemPacket.cpp
+1>  Vec3.cpp
+1>  VillageFeature.cpp
+1>  VillagePieces.cpp
+1>  Villager.cpp
+1>  VineTile.cpp
+1>  VoronoiZoom.cpp
+1>  WaterColor.cpp
+1>  WaterLevelChunk.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Villager.cpp(209,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Villager.cpp(212,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Villager.cpp(215,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Villager.cpp(218,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Villager.cpp(221,2): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(10,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(13,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(16,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\Arrays.h(19,3): warning 187: pointless comparison of unsigned integer with zero
+1>  
+1>  WaterlilyFeature.cpp
+1>  WaterLilyTile.cpp
+1>  WaterLilyTileItem.cpp
+1>  WaterWorkerEnchantment.cpp
+1>  WeaponItem.cpp
+1>  WeaponRecipies.cpp
+1>  WeighedRandom.cpp
+1>  UIStructs.h
+1>  Wolf.cpp
+1>  TreeTile.cpp
+1>  WebTile.cpp
+1>  WorkbenchTile.cpp
+1>  ConsoleSaveFileInputStream.cpp
+1>  ConsoleSaveFileOutputStream.cpp
+1>  Zombie.cpp
+1>  LevelGenerationOptions.h 
+1>  WaterAnimal.cpp
+1>  ZoomLayer.cpp
+1>  CompressedTileStorage.cpp
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CompressedTileStorage.cpp(302,5): warning 552: variable "offsets" was set but never used
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CompressedTileStorage.cpp(628,1): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CompressedTileStorage.cpp(875,1): warning 112: statement is unreachable
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CompressedTileStorage.cpp(1181,9): warning 178: variable "tiletypemask" was declared but never referenced
+1>  
+1>C:\MinecraftLCE-7thGen\Minecraft.World\CompressedTileStorage.cpp(13,11): warning 178: variable "g_currentCompressTiles" was declared but never referenced
+1>  
+1>  Minecraft.World.vcxproj -> C:\MinecraftLCE-7thGen\Minecraft.World\bin\PS3\Debug\Minecraft.World.a
+1>          1 file(s) copied.
+2>------ Rebuild All started: Project: Minecraft.Client, Configuration: Debug PS3 ------
+2>  stdafx.cpp
+2>  UIStructs.h
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PS3\..\Common\UI\UIController.h(353,62): warning 68: integer conversion resulted in a change of sign
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PS3\..\Common\UI\UIController.h(353,81): warning 68: integer conversion resulted in a change of sign
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PS3\..\Common\UI\UIController.h(354,76): warning 68: integer conversion resulted in a change of sign
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PS3\..\Common\UI\UIController.h(354,95): warning 68: integer conversion resulted in a change of sign
+2>  
+2>  LevelGenerationOptions.h 
+2>  "C:\MinecraftLCE-7thGen\Minecraft.Client\stdafx.cpp": creating precompiled header file "C:\MinecraftLCE-7thGen\Minecraft.Client\bin\PS3\Debug\Minecraft.Client.pch"
+2>  AbstractTexturePack.cpp
+2>  ArchiveFile.cpp
+2>  AchievementScreen.cpp
+2>  BlazeModel.cpp
+2>  BlazeRenderer.cpp
+2>  AllowAllCuller.cpp
+2>  AchievementPopup.cpp
+2>  ArrowRenderer.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ArchiveFile.cpp(158,22): warning 68: integer conversion resulted in a change of sign
+2>  
+2>  BoatModel.cpp
+2>  BoatRenderer.cpp
+2>  BookModel.cpp
+2>  BreakingItemParticle.cpp
+2>  BubbleParticle.cpp
+2>  BufferedImage.cpp
+2>  Button.cpp
+2>  Camera.cpp
+2>  ChatScreen.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\BufferedImage.cpp(269,5): warning 178: variable "iCurrentByte" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\BufferedImage.cpp(394,4): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\BufferedImage.cpp(395,4): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\BufferedImage.cpp(396,4): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+2>  
+2>  ChestModel.cpp
+2>  ChestRenderer.cpp
+2>  ChickenModel.cpp
+2>  ChickenRenderer.cpp
+2>  Chunk.cpp
+2>  ClientConnection.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ChatScreen.cpp(51,30): warning 187: pointless comparison of unsigned integer with zero
+2>  
+2>  ClientConstants.cpp
+2>  ClockTexture.cpp
+2>  Consoles_SoundEngine.cpp
+2>  SoundNames.cpp
+2>  ColourTable.cpp
+2>  Consoles_App.cpp
+2>  DLCAudioFile.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Chunk.cpp(188,1): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Chunk.cpp(390,13): warning 178: variable "ss" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Chunk.cpp(709,9): warning 178: variable "ss" was declared but never referenced
+2>  
+2>  DLCCapeFile.cpp
+2>  DLCColourTableFile.cpp
+2>  DLCFile.cpp
+2>  DLCGameRulesFile.cpp
+2>  DLCGameRulesHeader.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ClientConnection.cpp(1603,65): warning 1772: argument of type "double" is implicitly converted to parameter (3 of _ZN17CTelemetryManager27RecordEnemyKilledOrOvercomeEiiiiiii20ETelemetryChallenges) of type "int"
+2>  
+2>  DLCLocalisationFile.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2063,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2066,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2069,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2072,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2075,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2078,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2081,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2084,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2087,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2090,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2093,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2097,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2101,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2105,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2111,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2114,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2118,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2122,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2125,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2128,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2131,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2134,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2137,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2140,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2143,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2146,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2150,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2156,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(2162,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(3237,65): warning 782: reference is to variable "i" (declared at line 2454) -- under old for-init scoping rules it would have been variable "i" (declared at line 3218)
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(3242,155): warning 782: reference is to variable "i" (declared at line 2454) -- under old for-init scoping rules it would have been variable "i" (declared at line 3218)
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(3247,19): warning 782: reference is to variable "i" (declared at line 2454) -- under old for-init scoping rules it would have been variable "i" (declared at line 3218)
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(3451,21): warning 552: variable "pDLCTexPack" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(3819,11): warning 552: variable "purchased" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(4343,6): warning 552: variable "bNoPlayer" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(4915,15): warning 552: variable "senType" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(5752,6): warning 178: variable "saveOrCheckpointId" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(6654,6): warning 552: variable "chDLCType" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7551,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7554,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7557,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7560,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7563,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7567,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7570,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7573,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7576,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7579,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7582,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7585,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7588,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7591,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7594,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7597,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7600,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7603,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7606,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Consoles_App.cpp(7609,2): warning 112: statement is unreachable
+2>  
+2>  DLCManager.cpp
+2>  DLCPack.cpp
+2>  DLCSkinFile.cpp
+2>  DLCTextureFile.cpp
+2>  DLCUIDataFile.cpp
+2>  AddEnchantmentRuleDefinition.cpp
+2>  AddItemRuleDefinition.cpp
+2>  ApplySchematicRuleDefinition.cpp
+2>  BiomeOverride.cpp
+2>  CollectItemRuleDefinition.cpp
+2>  CompleteAllRuleDefinition.cpp
+2>  CompoundGameRuleDefinition.cpp
+2>  GameRule.cpp
+2>  GameRuleDefinition.cpp
+2>  GameRuleManager.cpp
+2>  LevelGenerationOptions.cpp
+2>  LevelGenerators.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\GameRuleManager.cpp(378,6): warning 552: variable "levelGenAdded" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\GameRuleManager.cpp(519,14): warning 552: variable "lgoID" was set but never used
+2>  
+2>  LevelRules.cpp
+2>  LevelRuleset.cpp
+2>  NamedAreaRuleDefinition.cpp
+2>  StartFeature.cpp
+2>  UpdatePlayerRuleDefinition.cpp
+2>  UseTileRuleDefinition.cpp
+2>  ConsoleGenerateStructure.cpp
+2>  ConsoleSchematicFile.cpp
+2>  XboxStructureActionGenerateBox.cpp
+2>  XboxStructureActionPlaceBlock.cpp
+2>  XboxStructureActionPlaceContainer.cpp
+2>  XboxStructureActionPlaceSpawner.cpp
+2>  LeaderboardManager.cpp
+2>  GameNetworkManager.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(68,3): warning 237: controlling expression is constant
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(375,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(376,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(381,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(382,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(387,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(388,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(394,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(395,13): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(459,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(460,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(461,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(471,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(472,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(473,14): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(509,19): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(510,19): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(522,16): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\GameRules\ConsoleSchematicFile.cpp(523,16): warning 1773: implicitly converting a value of type "double" to an entity of type "int" in an assignment
+2>  
+2>  NetworkPlayerSony.cpp
+2>  PlatformNetworkManagerSony.cpp
+2>  SonyHttp.cpp
+2>  SonyRemoteStorage.cpp
+2>  SQRNetworkPlayer.cpp
+2>  TelemetryManager.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\Sony\PlatformNetworkManagerSony.cpp(144,14): warning 552: variable "pszDescription" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\Sony\PlatformNetworkManagerSony.cpp(514,3): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\Sony\PlatformNetworkManagerSony.cpp(683,1): warning 112: statement is unreachable
+2>  
+2>  TrialMode.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\GameNetworkManager.cpp(212,16): warning 178: variable "sseed" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\GameNetworkManager.cpp(861,15): warning 68: integer conversion resulted in a change of sign
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\GameNetworkManager.cpp(1662,6): warning 178: variable "pccAllowed" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\GameNetworkManager.cpp(1663,6): warning 178: variable "pccFriendsAllowed" was declared but never referenced
+2>  
+2>  AreaConstraint.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Network\Sony\SonyRemoteStorage.cpp(12,18): warning 178: variable "sc_localSaveFilename" was declared but never referenced
+2>  
+2>  AreaHint.cpp
+2>  AreaTask.cpp
+2>  ChangeStateConstraint.cpp
+2>  ChoiceTask.cpp
+2>  CompleteUsingItemTask.cpp
+2>  ControllerTask.cpp
+2>  CraftTask.cpp
+2>  DiggerItemHint.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Tutorial\ChoiceTask.cpp(119,7): warning 552: variable "firstPlay" was set but never used
+2>  
+2>  EffectChangedTask.cpp
+2>  FullTutorial.cpp
+2>  FullTutorialActiveTask.cpp
+2>  FullTutorialMode.cpp
+2>  InfoTask.cpp
+2>  InputConstraint.cpp
+2>  LookAtEntityHint.cpp
+2>  LookAtTileHint.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\Tutorial\InfoTask.cpp(126,7): warning 552: variable "firstPlay" was set but never used
+2>  
+2>  PickupTask.cpp
+2>  ProcedureCompoundTask.cpp
+2>  ProgressFlagTask.cpp
+2>  StatTask.cpp
+2>  TakeItemHint.cpp
+2>  Tutorial.cpp
+2>  TutorialHint.cpp
+2>  TutorialMessage.cpp
+2>  TutorialMode.cpp
+2>  TutorialTask.cpp
+2>  UseItemTask.cpp
+2>  UseTileTask.cpp
+2>  XuiCraftingTask.cpp
+2>  ConsoleGameMode.cpp
+2>  Console_Utils.cpp
+2>  IUIScene_AbstractContainerMenu.cpp
+2>  IUIScene_AnvilMenu.cpp
+2>  IUIScene_BrewingMenu.cpp
+2>  IUIScene_ContainerMenu.cpp
+2>  IUIScene_CraftingMenu.cpp
+2>  IUIScene_CreativeMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\IUIScene_AbstractContainerMenu.cpp(1367,2): warning 112: statement is unreachable
+2>  
+2>  IUIScene_DispenserMenu.cpp
+2>  IUIScene_EnchantingMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\IUIScene_CraftingMenu.cpp(1264,17): warning 552: variable "size" was set but never used
+2>  
+2>  IUIScene_FurnaceMenu.cpp
+2>  IUIScene_InventoryMenu.cpp
+2>  IUIScene_PauseMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\IUIScene_CreativeMenu.cpp(665,5): warning 178: variable "remainingItems" was declared but never referenced
+2>  
+2>  IUIScene_StartGame.cpp
+2>  IUIScene_TradingMenu.cpp
+2>  UIComponent_DebugUIMarketingGuide.cpp
+2>  UIScene_Keyboard.cpp
+2>  UIComponent_MenuBackground.cpp
+2>  UIComponent_PressStartToPlay.cpp
+2>  UIControl_Base.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\IUIScene_StartGame.cpp(52,6): warning 552: variable "bNeedToGetTPD" was set but never used
+2>  
+2>  UIControl_BitmapIcon.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\IUIScene_TradingMenu.cpp(160,5): warning 552: variable "offerCount" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_Keyboard.cpp(86,12): warning 552: variable "out" was set but never used
+2>  
+2>  UIControl_DLCList.cpp
+2>  UIControl_DynamicLabel.cpp
+2>  UIControl_EnchantmentBook.cpp
+2>  UIControl_EnchantmentButton.cpp
+2>  UIControl_HTMLLabel.cpp
+2>  UIControl_LeaderboardList.cpp
+2>  UIControl_MinecraftPlayer.cpp
+2>  UIControl_PlayerList.cpp
+2>  UIControl_SaveList.cpp
+2>  UIControl_SpaceIndicatorBar.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_EnchantmentButton.cpp(99,49): warning 1778: argument type is implicitly converted to parameter of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_EnchantmentButton.cpp(99,73): warning 1778: argument type is implicitly converted to parameter of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_EnchantmentButton.cpp(111,49): warning 1778: argument type is implicitly converted to parameter of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_EnchantmentButton.cpp(111,73): warning 1778: argument type is implicitly converted to parameter of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_EnchantmentButton.cpp(51,7): warning 178: variable "xo" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_EnchantmentButton.cpp(52,7): warning 178: variable "yo" was declared but never referenced
+2>  
+2>  UIControl_TexturePackList.cpp
+2>  UIFontData.cpp
+2>  UIScene_AnvilMenu.cpp
+2>  UIScene_ControlsMenu.cpp
+2>  UIScene_Credits.cpp
+2>  UIScene_DebugCreateSchematic.cpp
+2>  UIScene_DebugSetCamera.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIFontData.cpp(185,18): warning 552: variable "_x" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIFontData.cpp(185,24): warning 552: variable "_y" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIFontData.cpp(194,13): warning 178: variable "XX" was declared but never referenced
+2>  
+2>  UIScene_DLCMainMenu.cpp
+2>  UIScene_DLCOffersMenu.cpp
+2>  UIScene_EndPoem.cpp
+2>  UIScene_EULA.cpp
+2>  UIScene_HowToPlay.cpp
+2>  UIScene_InGameHostOptionsMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_EndPoem.cpp(208,6): warning 178: variable "darken" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_DLCOffersMenu.cpp(106,24): warning 178: variable "pClass" was declared but never referenced
+2>  
+2>  UIScene_InGameInfoMenu.cpp
+2>  UIScene_InGamePlayerOptionsMenu.cpp
+2>  UIScene_LeaderboardsMenu.cpp
+2>  UIScene_MessageBox.cpp
+2>  UIBitmapFont.cpp
+2>  UIComponent_Chat.cpp
+2>  UIComponent_DebugUIConsole.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_InGameInfoMenu.cpp(485,5): warning 552: variable "foundIndex" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIBitmapFont.cpp(324,20): warning 1773: implicitly converting a value of type "float" to an entity of type "S32" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LeaderboardsMenu.cpp(39,61): warning 68: integer conversion resulted in a change of sign
+2>  
+2>  UIComponent_Logo.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Chat.cpp(35,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Chat.cpp(40,2): warning 112: statement is unreachable
+2>  
+2>  UIComponent_Panorama.cpp
+2>  UIComponent_Tooltips.cpp
+2>  UIComponent_TutorialPopup.cpp
+2>  UIControl.cpp
+2>  UIControl_Button.cpp
+2>  UIControl_CheckBox.cpp
+2>  UIControl_Cursor.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Logo.cpp(24,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Logo.cpp(28,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Panorama.cpp(33,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Panorama.cpp(38,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Panorama.cpp(121,41): warning 1772: argument of type "float" is implicitly converted to parameter (2 of IggyPlayerSetDisplaySize) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Panorama.cpp(121,62): warning 1772: argument of type "float" is implicitly converted to parameter (3 of IggyPlayerSetDisplaySize) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Tooltips.cpp(51,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Tooltips.cpp(56,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Tooltips.cpp(132,13): warning 1772: argument of type "F64" is implicitly converted to parameter (1 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Tooltips.cpp(132,22): warning 1772: argument of type "F64" is implicitly converted to parameter (2 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Tooltips.cpp(132,34): warning 1772: argument of type "F64" is implicitly converted to parameter (3 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_Tooltips.cpp(132,44): warning 1772: argument of type "F64" is implicitly converted to parameter (4 of setSafeZone) of type "S32"
+2>  
+2>  UIControl_Label.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_TutorialPopup.cpp(41,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIComponent_TutorialPopup.cpp(45,2): warning 112: statement is unreachable
+2>  
+2>  UIControl_PlayerSkinPreview.cpp
+2>  UIControl_Progress.cpp
+2>  UIControl_ButtonList.cpp
+2>  UIControl_Slider.cpp
+2>  UIControl_SlotList.cpp
+2>  UIControl_TextInput.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_PlayerSkinPreview.cpp(69,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIControl_PlayerSkinPreview.cpp(157,9): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+2>  
+2>  UIGroup.cpp
+2>  UILayer.cpp
+2>  UIScene.cpp
+2>  UIScene_AbstractContainerMenu.cpp
+2>  UIScene_BrewingStandMenu.cpp
+2>  UIScene_ConnectingProgress.cpp
+2>  UIScene_ContainerMenu.cpp
+2>  UIScene_CraftingMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(207,13): warning 1772: argument of type "F64" is implicitly converted to parameter (1 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(207,22): warning 1772: argument of type "F64" is implicitly converted to parameter (2 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(207,34): warning 1772: argument of type "F64" is implicitly converted to parameter (3 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(207,44): warning 1772: argument of type "F64" is implicitly converted to parameter (4 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(331,9): warning 178: variable "beforeLoad" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(333,9): warning 178: variable "afterLoad" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(335,9): warning 178: variable "afterTick" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(391,8): warning 552: variable "res" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene.cpp(413,8): warning 552: variable "res" was set but never used
+2>  
+2>  UIScene_CreateWorldMenu.cpp
+2>  UIScene_CreativeMenu.cpp
+2>  UIScene_DeathMenu.cpp
+2>  UIScene_DebugOptions.cpp
+2>  UIScene_DebugOverlay.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_CreateWorldMenu.cpp(804,5): warning 552: variable "iPadNotSignedInLive" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_CreateWorldMenu.cpp(1104,6): warning 178: variable "isFlat" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_CreateWorldMenu.cpp(1248,7): warning 552: variable "iPadNotSignedInLive" was set but never used
+2>  
+2>  UIScene_DispenserMenu.cpp
+2>  UIScene_EnchantingMenu.cpp
+2>  UIScene_FullscreenProgress.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_DeathMenu.cpp(106,9): warning 552: variable "playTime" was set but never used
+2>  
+2>  UIScene_FurnaceMenu.cpp
+2>  UIScene_HelpAndOptionsMenu.cpp
+2>  UIScene_HowToPlayMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_DebugOverlay.cpp(31,50): warning 1772: argument of type "float" is implicitly converted to parameter (5 of init) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_DebugOverlay.cpp(244,28): warning 1772: argument of type "double" is implicitly converted to parameter (1 of SetTime) of type "__int64"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_DebugOverlay.cpp(245,46): warning 1772: argument of type "double" is implicitly converted to parameter (1 of setTime) of type "__int64"
+2>  
+2>  UIScene_HUD.cpp
+2>  UIScene_Intro.cpp
+2>  UIScene_JoinMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HowToPlayMenu.cpp(202,17): warning 68: integer conversion resulted in a change of sign
+2>  
+2>  UIScene_LaunchMoreOptionsMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HUD.cpp(72,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HUD.cpp(77,2): warning 112: statement is unreachable
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HUD.cpp(135,13): warning 1772: argument of type "F64" is implicitly converted to parameter (1 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HUD.cpp(135,22): warning 1772: argument of type "F64" is implicitly converted to parameter (2 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HUD.cpp(135,34): warning 1772: argument of type "F64" is implicitly converted to parameter (3 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HUD.cpp(135,44): warning 1772: argument of type "F64" is implicitly converted to parameter (4 of setSafeZone) of type "S32"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_HUD.cpp(655,6): warning 552: variable "anyVisible" was set but never used
+2>  
+2>  UIScene_LoadMenu.cpp
+2>  UIScene_LoadOrJoinMenu.cpp
+2>  UIScene_MainMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LaunchMoreOptionsMenu.cpp(109,15): warning 552: variable "size" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LaunchMoreOptionsMenu.cpp(364,15): warning 552: variable "size" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LaunchMoreOptionsMenu.cpp(451,5): warning 178: variable "value" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_JoinMenu.cpp(394,5): warning 552: variable "iPadNotSignedInLive" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_JoinMenu.cpp(460,6): warning 178: variable "pccAllowed" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_JoinMenu.cpp(461,6): warning 178: variable "pccFriendsAllowed" was declared but never referenced
+2>  
+2>  UIScene_InventoryMenu.cpp
+2>  UIScene_PauseMenu.cpp
+2>  UIScene_QuadrantSignin.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadMenu.cpp(1156,6): warning 552: variable "iPadNotSignedInLive" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadMenu.cpp(1633,7): warning 552: variable "iPadNotSignedInLive" was set but never used
+2>  
+2>  UIScene_ReinstallMenu.cpp
+2>  UIScene_SaveMessage.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(146,8): warning 178: variable "iLB" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(679,25): warning 178: variable "srclen" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(679,32): warning 178: variable "dstlen" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(1214,19): warning 1773: implicitly converting a value of type "F64" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(1218,19): warning 1773: implicitly converting a value of type "F64" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(1692,24): warning 178: variable "hr" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(1633,8): warning 178: variable "iRB" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(1634,8): warning 178: variable "iY" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(1635,8): warning 178: variable "iX" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(2115,19): warning 178: variable "ptr" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_LoadOrJoinMenu.cpp(2507,7): warning 178: variable "idx" was declared but never referenced
+2>  
+2>  UIScene_SettingsAudioMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_PauseMenu.cpp(656,9): warning 552: variable "playTime" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_PauseMenu.cpp(725,9): warning 552: variable "playTime" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_PauseMenu.cpp(743,9): warning 552: variable "playTime" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_PauseMenu.cpp(761,9): warning 552: variable "playTime" was set but never used
+2>  
+2>  UIScene_SettingsControlMenu.cpp
+2>  UIScene_SettingsGraphicsMenu.cpp
+2>  UIScene_SettingsMenu.cpp
+2>  UIScene_SettingsOptionsMenu.cpp
+2>  UIScene_SettingsUIMenu.cpp
+2>  UIScene_SignEntryMenu.cpp
+2>  UIScene_SkinSelectMenu.cpp
+2>  UIScene_TeleportMenu.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_SettingsOptionsMenu.cpp(79,15): warning 552: variable "size" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_SettingsOptionsMenu.cpp(95,7): warning 178: variable "fRemoveHeight" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_SettingsOptionsMenu.cpp(95,26): warning 178: variable "fWidth" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_SettingsOptionsMenu.cpp(95,33): warning 178: variable "fHeight" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_SettingsOptionsMenu.cpp(242,16): warning 552: variable "size" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_SettingsOptionsMenu.cpp(224,7): warning 178: variable "TempString" was declared but never referenced
+2>  
+2>  UIScene_Timer.cpp
+2>  UIScene_TradingMenu.cpp
+2>  UIScene_TrialExitUpsell.cpp
+2>  UITTFFont.cpp
+2>  CompassTexture.cpp
+2>  ConfirmScreen.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_TeleportMenu.cpp(280,5): warning 552: variable "foundIndex" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Common\UI\UIScene_TradingMenu.cpp(134,54895): warning 1634: switch statement is missing case labels
+2>  
+2>  ConnectScreen.cpp
+2>  ConsoleInput.cpp
+2>  ControlsScreen.cpp
+2>  CowModel.cpp
+2>  CowRenderer.cpp
+2>  CreateWorldScreen.cpp
+2>  CreeperModel.cpp
+2>  CreeperRenderer.cpp
+2>  CritParticle.cpp
+2>  CritParticle2.cpp
+2>  Cube.cpp
+2>  DeathScreen.cpp
+2>  DefaultRenderer.cpp
+2>  DefaultTexturePack.cpp
+2>  DemoLevel.cpp
+2>  DemoUser.cpp
+2>  DerivedServerLevel.cpp
+2>  DirtyChunkSorter.cpp
+2>  DisconnectedScreen.cpp
+2>  DistanceChunkSorter.cpp
+2>  DLCTexturePack.cpp
+2>  DragonBreathParticle.cpp
+2>  DragonModel.cpp
+2>  DripParticle.cpp
+2>  EchantmentTableParticle.cpp
+2>  EditBox.cpp
+2>  EnchantTableRenderer.cpp
+2>  EnderChestRenderer.cpp
+2>  EnderCrystalModel.cpp
+2>  EnderCrystalRenderer.cpp
+2>  EnderDragonRenderer.cpp
+2>  EndermanModel.cpp
+2>  EndermanRenderer.cpp
+2>  EnderParticle.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\EnderDragonRenderer.cpp(150,10): warning 178: variable "d" was declared but never referenced
+2>  
+2>  EntityRenderDispatcher.cpp
+2>  EntityRenderer.cpp
+2>  EntityTileRenderer.cpp
+2>  EntityTracker.cpp
+2>  ErrorScreen.cpp
+2>  ExperienceOrbRenderer.cpp
+2>  ExplodeParticle.cpp
+2>  Extrax64Stubs.cpp
+2>  FallingTileRenderer.cpp
+2>  FileTexturePack.cpp
+2>  FireballRenderer.cpp
+2>  FishingHookRenderer.cpp
+2>  FlameParticle.cpp
+2>  FolderTexturePack.cpp
+2>  Font.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\FireballRenderer.cpp(88,10): warning 178: variable "zo" was declared but never referenced
+2>  
+2>  FootstepParticle.cpp
+2>  Frustum.cpp
+2>  FrustumCuller.cpp
+2>  FrustumData.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Font.cpp(336,11): warning 187: pointless comparison of unsigned integer with zero
+2>  
+2>  GameRenderer.cpp
+2>  GhastModel.cpp
+2>  GhastRenderer.cpp
+2>  GiantMobRenderer.cpp
+2>  glWrapper.cpp
+2>  Gui.cpp
+2>  GuiComponent.cpp
+2>  GuiMessage.cpp
+2>  GuiParticle.cpp
+2>  GuiParticles.cpp
+2>  HeartParticle.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(752,19): warning 1772: argument of type "float" is implicitly converted to parameter (3 of _ZN12GuiComponent4fillEiiiii) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(752,50): warning 1772: argument of type "float" is implicitly converted to parameter (4 of _ZN12GuiComponent4fillEiiiii) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(766,13): warning 1772: argument of type "float" is implicitly converted to parameter (3 of _ZN12GuiComponent4fillEiiiii) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(766,44): warning 1772: argument of type "float" is implicitly converted to parameter (4 of _ZN12GuiComponent4fillEiiiii) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(65,5): warning 552: variable "iWidthOffset" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(65,20): warning 552: variable "iHeightOffset" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(81,22): warning 552: variable "iSafezoneYHalf" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(82,5): warning 552: variable "iTooltipsYOffset" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(83,5): warning 178: variable "quickSelectWidth" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(84,5): warning 178: variable "quickSelectHeight" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(897,17): warning 552: variable "max" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Gui.cpp(898,9): warning 552: variable "isChatting" was set but never used
+2>  
+2>  HttpTexture.cpp
+2>  HugeExplosionParticle.cpp
+2>  HugeExplosionSeedParticle.cpp
+2>  HumanoidMobRenderer.cpp
+2>  HumanoidModel.cpp
+2>  InBedChatScreen.cpp
+2>  Input.cpp
+2>  ItemFrameRenderer.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\HumanoidModel.cpp(52,56): warning 1772: argument of type "float" is implicitly converted to parameter (4 of addHumanoidBox) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\HumanoidModel.cpp(52,66): warning 1772: argument of type "float" is implicitly converted to parameter (5 of addHumanoidBox) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\HumanoidModel.cpp(52,76): warning 1772: argument of type "float" is implicitly converted to parameter (6 of addHumanoidBox) of type "int"
+2>  
+2>  ItemInHandRenderer.cpp
+2>  ItemRenderer.cpp
+2>  ItemSpriteRenderer.cpp
+2>  JoinMultiplayerScreen.cpp
+2>  KeyMapping.cpp
+2>  LargeChestModel.cpp
+2>  LavaParticle.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ItemRenderer.cpp(491,13): warning 1772: argument of type "float" is implicitly converted to parameter (1 of blitGlint) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ItemRenderer.cpp(495,13): warning 1772: argument of type "float" is implicitly converted to parameter (1 of blitGlint) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ItemInHandRenderer.cpp(239,14): warning 178: variable "dd" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ItemInHandRenderer.cpp(285,10): warning 178: variable "r" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ItemInHandRenderer.cpp(743,10): warning 178: variable "r" was declared but never referenced
+2>  
+2>  LavaSlimeModel.cpp
+2>  LavaSlimeRenderer.cpp
+2>  LevelRenderer.cpp
+2>  Lighting.cpp
+2>  LightningBoltRenderer.cpp
+2>  MemoryTracker.cpp
+2>  MemTexture.cpp
+2>  MinecartModel.cpp
+2>  MinecartRenderer.cpp
+2>  Minecraft.cpp
+2>  MinecraftServer.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(1364,11): warning 178: variable "y1" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(1388,11): warning 178: variable "y0" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(1412,11): warning 178: variable "x1" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(1466,11): warning 178: variable "z1" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(1816,20): warning 1772: argument of type "float" is implicitly converted to parameter (1 of _Z18PIXAddNamedCounteriPcz) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(1838,8): warning 178: variable "y2" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(1803,5): warning 178: variable "minDistSq" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(2516,16): warning 186: dynamic initialization in unreachable code
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(2533,5): warning 178: variable "numWrong" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LevelRenderer.cpp(3497,6): warning 552: variable "printed" was set but never used
+2>  
+2>  Minimap.cpp
+2>  MobRenderer.cpp
+2>  MobSkinMemTextureProcessor.cpp
+2>  MobSkinTextureProcessor.cpp
+2>  MobSpawnerRenderer.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\MobRenderer.cpp(451,19): warning 1778: argument type is implicitly converted to parameter of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\MobRenderer.cpp(468,18): warning 1778: argument type is implicitly converted to parameter of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\MinecraftServer.cpp(554,5): warning 178: variable "i" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\MinecraftServer.cpp(1106,9): warning 178: variable "didTick" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\MinecraftServer.cpp(1482,18): warning 552: variable "stc" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(1230,13): warning 178: variable "bAutosaveTimerSet" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(1231,21): warning 178: variable "uiAutosaveTimer" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(2712,18591): warning 1634: switch statement is missing case labels
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(3083,5799): warning 1634: switch statement is missing case labels
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(3278,56): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(3286,47): warning 1773: implicitly converting a value of type "float" to an entity of type "int" in an assignment
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(3435,7): warning 552: variable "iCount" was set but never used
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\Minecraft.cpp(3844,6): warning 552: variable "playerAdded" was set but never used
+2>  
+2>  Model.cpp
+2>  ModelPart.cpp
+2>  MultiPlayerChunkCache.cpp
+2>  MultiPlayerGameMode.cpp
+2>  MultiPlayerLevel.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\ModelPart.cpp(90,4): warning 112: statement is unreachable
+2>  
+2>  MultiPlayerLocalPlayer.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\..\Minecraft.World\Arrays.h(10,3): warning 187: pointless comparison of unsigned integer with zero
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\..\Minecraft.World\Arrays.h(13,3): warning 187: pointless comparison of unsigned integer with zero
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\..\Minecraft.World\Arrays.h(16,3): warning 187: pointless comparison of unsigned integer with zero
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\..\Minecraft.World\Arrays.h(19,3): warning 187: pointless comparison of unsigned integer with zero
+2>  
+2>  MushroomCowRenderer.cpp
+2>  NameEntryScreen.cpp
+2>  NoteParticle.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\MultiPlayerLocalPlayer.cpp(321,65): warning 1772: argument of type "double" is implicitly converted to parameter (3 of _ZN17CTelemetryManager27RecordEnemyKilledOrOvercomeEiiiiiii20ETelemetryChallenges) of type "int"
+2>  
+2>  OffsettedRenderList.cpp
+2>  Options.cpp
+2>  OptionsScreen.cpp
+2>  OzelotModel.cpp
+2>  OzelotRenderer.cpp
+2>  PaintingRenderer.cpp
+2>  Particle.cpp
+2>  ParticleEngine.cpp
+2>  PauseScreen.cpp
+2>  PendingConnection.cpp
+2>  PigModel.cpp
+2>  PigRenderer.cpp
+2>  LocalPlayer.cpp
+2>  PistonPieceRenderer.cpp
+2>  PlayerChunkMap.cpp
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LocalPlayer.cpp(711,62): warning 1772: argument of type "double" is implicitly converted to parameter (3 of _ZN17CTelemetryManager24RecordPlayerDiedOrFailedEiiiiiii20ETelemetryChallenges) of type "int"
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\LocalPlayer.cpp(806,91): warning 1421: support for trigraphs is disabled
+2>  
+2>  PlayerCloudParticle.cpp
+2>  PlayerConnection.cpp
+2>  PlayerList.cpp
+2>  PreStitchedTextureMap.cpp
+2>  C:/usr/local/cell/host-win32/sn/bin/ps3ppucf: Permission denied
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PreStitchedTextureMap.cpp(84,5): warning 178: variable "mode" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PreStitchedTextureMap.cpp(85,5): warning 178: variable "clamp" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PreStitchedTextureMap.cpp(86,5): warning 178: variable "minFilter" was declared but never referenced
+2>  
+2>C:\MinecraftLCE-7thGen\Minecraft.Client\PreStitchedTextureMap.cpp(87,5): warning 178: variable "magFilter" was declared but never referenced
+2>  
+2>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Platforms\PS3\PlatformToolsets\SNC\Microsoft.Cpp.PS3.SNC.targets(120,5): error MSB6006: "ps3ppusnc.exe" exited with code 1.
+========== Rebuild All: 1 succeeded, 1 failed, 0 skipped ==========

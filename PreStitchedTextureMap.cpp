@@ -301,7 +301,7 @@ void PreStitchedTextureMap::loadUVs()
 	texturesByName.clear();
 	texturesToAnimate.clear();
 
-	float slotSize = 1.0f/16.0f;
+	float slotSize = 1.0f/32.0f;
 	if(iconType != Icon::TYPE_TERRAIN)
 	{
 		texturesByName.insert(stringIconMap::value_type(L"helmetCloth",new SimpleIcon(L"helmetCloth",slotSize*0,slotSize*0,slotSize*(0+1),slotSize*(0+1))));
@@ -507,6 +507,7 @@ void PreStitchedTextureMap::loadUVs()
 		texturesByName.insert(stringIconMap::value_type(L"fireworksCharge",new SimpleIcon(L"fireworksCharge",slotSize*10,slotSize*12,slotSize*(10+1),slotSize*(12+1))));
 		texturesByName.insert(stringIconMap::value_type(L"fireworksCharge_overlay",new SimpleIcon(L"fireworksCharge_overlay",slotSize*11,slotSize*12,slotSize*(11+1),slotSize*(12+1))));
 		texturesByName.insert(stringIconMap::value_type(L"netherquartz",new SimpleIcon(L"netherquartz",slotSize*12,slotSize*12,slotSize*(12+1),slotSize*(12+1))));
+		//texturesByName.insert(stringIconMap::value_type(L"ancientDebris", new SimpleIcon(L"ancientDebris", slotSize*7, slotSize*14, slotSize*(7+1), slotSize*(14+1))));
 		texturesByName.insert(stringIconMap::value_type(L"emptyMap",new SimpleIcon(L"emptyMap",slotSize*13,slotSize*12,slotSize*(13+1),slotSize*(12+1))));
 		texturesByName.insert(stringIconMap::value_type(L"frame",new SimpleIcon(L"frame",slotSize*14,slotSize*12,slotSize*(14+1),slotSize*(12+1))));
 		texturesByName.insert(stringIconMap::value_type(L"enchantedBook",new SimpleIcon(L"enchantedBook",slotSize*15,slotSize*12,slotSize*(15+1),slotSize*(12+1))));

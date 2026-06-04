@@ -43,17 +43,17 @@ ItemInHandRenderer::ItemInHandRenderer(Minecraft *mc, bool optimisedMinimap)
 		glNewList(list, GL_COMPILE);
 		Tesselator *t = Tesselator::getInstance();
 		t->begin();
-		for( int yp = 0; yp < 32; yp++ )
-			for( int xp = 0; xp < 32; xp++ )
+		for( int yp = 0; yp < 16; yp++ )
+			for( int xp = 0; xp < 16; xp++ )
 			{
-				float u = (31-xp) / 512.0f;
-				float v = (31-yp) / 512.0f;
-				u += 0.5f / 512.0f;
-				v += 0.5f / 512.0f;
-				float x0 = xp / 32.0f;
-				float x1 = x0 + 1.0f/32.0f;
-				float y0 = yp / 32.0f;
-				float y1 = y0 + 1.0f/32.0f;
+				float u = (15-xp) / 256.0f;
+				float v = (15-yp) / 256.0f;
+				u += 0.5f / 256.0f;
+				v += 0.5f / 256.0f;
+				float x0 = xp / 16.0f;
+				float x1 = x0 + 1.0f/16.0f;
+				float y0 = yp / 16.0f;
+				float y1 = y0 + 1.0f/16.0f;
 				float z0 = 0.0f;
 				float z1 = -dd;
 
@@ -102,18 +102,18 @@ ItemInHandRenderer::ItemInHandRenderer(Minecraft *mc, bool optimisedMinimap)
 		glDepthFunc(GL_EQUAL);
 		Tesselator *t = Tesselator::getInstance();
 		t->begin();
-		for( int yp = 0; yp < 32; yp++ )
-			for( int xp = 0; xp < 32; xp++ )
+		for( int yp = 0; yp < 16; yp++ )
+			for( int xp = 0; xp < 16; xp++ )
 			{
-				float u0 = (31-xp) / 32.0f;
-                float v0 = (31-yp) / 32.0f;
-                float u1 = u0 - (1.0f/32.0f);
-                float v1 = v0 - (1.0f/32.0f);
+				float u0 = (15-xp) / 16.0f;
+				float v0 = (15-yp) / 16.0f;
+				float u1 = u0 - (1.0f/16.0f);
+				float v1 = v0 - (1.0f/16.0f);;
 
-				float x0 = xp / 32.0f;
-				float x1 = x0 + 1.0f/32.0f;
-				float y0 = yp / 32.0f;
-				float y1 = y0 + 1.0f/32.0f;
+				float x0 = xp / 16.0f;
+				float x1 = x0 + 1.0f/16.0f;
+				float y0 = yp / 16.0f;
+				float y1 = y0 + 1.0f/16.0f;
 				float z0 = 0.0f;
 				float z1 = -dd;
 
@@ -257,14 +257,14 @@ void ItemInHandRenderer::renderItem(shared_ptr<Mob> mob, shared_ptr<ItemInstance
              glTranslatef(sx, 0, 0);
              glRotatef(-50, 0, 0, 1);
 
-            renderItem3D(t, 0, 0, 1, 1, 512, 512, 1 / 16.0f, true);
+            renderItem3D(t, 0, 0, 1, 1, 256, 256, 1 / 16.0f, true);
             glPopMatrix();
             glPushMatrix();
             glScalef(ss, ss, ss);
             sx = System::currentTimeMillis() % (3000 + 1873) / (3000 + 1873.0f) * 8;
             glTranslatef(-sx, 0, 0);
             glRotatef(10, 0, 0, 1);
-            renderItem3D(t, 0, 0, 1, 1, 512, 512, 1 / 16.0f, true);
+            renderItem3D(t, 0, 0, 1, 1, 256, 256, 1 / 16.0f, true);
             glPopMatrix();
             glMatrixMode(GL_MODELVIEW);
             glDisable(GL_BLEND);
